@@ -6,5 +6,6 @@ Two functions had been used.
     isEmail(str [, options])
 
 ### And to check if the string is a valid Tax Identification Numberin Brazil (CPF).
-
     isTaxID(str, 'pt-BR')
+
+###  The web page containing the functionality can be accessed [here](https://info-checking.surge.sh/).
