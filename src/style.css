@@ -65,7 +65,11 @@ footer {
 
 footer a {
   text-decoration: none; 
-  color: #ff9253;
+  color: #f87b33;
+}
+
+footer a:hover {
+  text-decoration: underline; 
 }
 
 .footer__heart {
